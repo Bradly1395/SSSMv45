@@ -1,0 +1,145 @@
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\bin\Debug\SSSM.exe
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\bin\Debug\SSSM.pdb
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.Properties.Resources.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.pdb
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.Login.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.PantallaPrincipal.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.CambiarClave.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.Usuarios.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.CrearUsuario.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.EditarUsuario.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.Clientes.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.CrearCliente.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.EditarCliente.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.Parametros.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.CrearTipoTrabajo.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.EditarTipoTrabajo.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.Trabajos.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.CrearTrabajo.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.EditarTrabajo.resources
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\bin\Debug\SSSM.exe.manifest
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\bin\Debug\SSSM.application
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.exe.manifest
+C:\Users\13\Desktop\SSSM\SSSM\SSSM\obj\Debug\SSSM.application
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.pdb
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CambiarClave.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Clientes.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearCliente.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearTipoTrabajo.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearTrabajo.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearUsuario.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarCliente.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarTipoTrabajo.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarTrabajo.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarUsuario.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Login.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.PantallaPrincipal.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Parametros.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Properties.Resources.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Trabajos.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Usuarios.resources
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.exe.manifest
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.application
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.exe
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.pdb
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.exe.manifest
+C:\Users\13\Desktop\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.application
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.pdb
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.exe.manifest
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.application
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.exe
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.pdb
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CambiarClave.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Clientes.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearCliente.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearTipoTrabajo.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearTrabajo.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.CrearUsuario.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarCliente.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarTipoTrabajo.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarTrabajo.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.EditarUsuario.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Login.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.PantallaPrincipal.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Parametros.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Properties.Resources.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Trabajos.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.Usuarios.resources
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.exe.manifest
+C:\Users\13\Desktop\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.application
+C:\Users\13\Desktop\I Periodo 2018\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\13\Desktop\I Periodo 2018\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\13\Desktop\I Periodo 2018\Nueva carpeta\SSSM\Nueva carpeta\SSSM\SSSM\obj\Debug\SSSM.pdb
+C:\Users\13\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\13\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\13\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.pdb
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.exe.manifest
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.application
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.exe
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.pdb
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.csprojAssemblyReference.cache
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CambiarClave.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Clientes.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearCliente.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearTipoTrabajo.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearTrabajo.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearUsuario.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarCliente.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarTipoTrabajo.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarTrabajo.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarUsuario.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Login.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.PantallaPrincipal.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Parametros.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Properties.Resources.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Trabajos.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Usuarios.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.csproj.GenerateResource.cache
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.exe.manifest
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.application
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.pdb
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearPedido.resources
+C:\Users\Bradly\Desktop\SSSM\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarEncargo.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.exe.manifest
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.application
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.exe
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\bin\Debug\SSSM.pdb
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.csprojAssemblyReference.cache
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CambiarClave.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Clientes.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearCliente.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearPedido.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearTipoTrabajo.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearTrabajo.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.CrearUsuario.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarCliente.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarEncargo.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarTipoTrabajo.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarTrabajo.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.EditarUsuario.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Login.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.PantallaPrincipal.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Parametros.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Properties.Resources.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Trabajos.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.Usuarios.resources
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.csproj.GenerateResource.cache
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.exe.manifest
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.application
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\Bradly\Desktop\SSSMv45\ProyectoSSSM\SSSM\SSSM\obj\Debug\SSSM.pdb
